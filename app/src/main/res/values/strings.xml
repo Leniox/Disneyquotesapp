@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Disney quotes app</string>
+    <string name="quote_display">Here is your quote</string>
+</resources>
